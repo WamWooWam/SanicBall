@@ -1,5 +1,9 @@
 # Sanicball
 
+This is a fork of Sanicball aimed at running under WebGL, as such it uses the latest-ish version of Unity (2018.3) and the Lightweight Render Pipeline, alongside multiplayer rewritten to run via WebSockets, implemented as an ASP.NET Core 2.2 application.
+
+# Original `README.md` below
+
 Sanicball is discontinued and I will not be accepting any pull requests.
 However if you have trouble understanding parts the project structure or code you can message me directly (viciousbadger@protonmail.com), I'll try to help out.
 
